@@ -34,7 +34,7 @@ description = "Enter you NFT description here"
 ```python
 Uri = "ipfs://Replace New Uri Here" 
 ```
-<p>You can order your NFT layers in this section of code.</p>
+<p>You can order your NFT layers in this section of the code.</p>
 
 ```python
 LayerS_Order = [
@@ -76,7 +76,7 @@ ExtraMetadata = {
 DuplicateTolerancee = 1000   # Our Program will end if duplicates are more than 1000
 ```
 
-<p>Here is a little diagram to help you understand the structure of layer folder tree :</p>
+<p>Here is a little diagram to help you understand the structure of layer folder tree:</p>
 
 ![rubikkk](https://user-images.githubusercontent.com/81759431/185686251-f33fcce6-f5fa-40f7-a84a-f900842caf85.PNG)
 
