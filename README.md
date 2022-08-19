@@ -2,7 +2,7 @@
 <h1><b>RUBIK NFT ART GENERATOR:</b></h1>
 <h3>Dependencies:</h3>
 
-<p>Install the latest version of python <a href="https://www.python.org/downloads/">here</a>.</p>
+<p>Install the latest version of python <a href="https://www.python.org/downloads/" target="_blank">here</a>.</p>
 
 <h3>Usage:</h3>
 <br>
