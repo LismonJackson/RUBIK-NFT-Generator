@@ -70,13 +70,13 @@ ExtraMetadata = {
 }
 ```
 
-<p>Duplicate tolerance is for terminating the program, if the number of duplicated generated reaches the tolerance limit. The program is designed to automatically remove duplicates but this features helps the user define the amount of the script should run in order to get the most out of random layer sequences.</p>
+<p>Duplicate tolerance is for terminating the program if the number of duplicated NFT(s) generated reaches the tolerance limit. The program is designed to automatically remove duplicates but this feature helps the user define the amount of time the script should run to get the most out of random layer sequences.</p>
 
 ```python
 DuplicateTolerancee = 1000   # Our Program will end if duplicates are more than 1000
 ```
 
-<p>Here is a little diagram to help you understand the structure of layer folder tree:</p>
+<p>Here is a little diagram to help you understand how you should structure your folder tree:</p>
 
 ![rubikkk](https://user-images.githubusercontent.com/81759431/185686251-f33fcce6-f5fa-40f7-a84a-f900842caf85.PNG)
 
